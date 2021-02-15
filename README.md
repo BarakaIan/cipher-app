@@ -8,7 +8,11 @@ Its an application that encrypts and decrypts data by entering a key.
 
 ## Installation and Prerequisites
 
+Internet connection
+access to a browser
 First Install sdk Install java Install Intellij.
+
+
  
 
 ## Set-up
