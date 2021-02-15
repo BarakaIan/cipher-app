@@ -13,7 +13,7 @@ First Install sdk Install java Install Intellij.
 
 ## Set-up
 Get a computer and internet.
-Clone the repository Git clone repository--link https://github.com/BarakaIan/caesar-cipher
+Clone the repository Git clone repository--https://github.com/BarakaIan/cipher-app
  
 Move into the directory cd directory name;
  
@@ -27,6 +27,9 @@ Enter encode or decode or exit app Enter message Enter key Enter exit or continu
 ## Bugs
 Currently there are no bugs but i will keep it updated with the latest trends.
 ## Link
-https://github.com/BarakaIan/caesar-cipher
+https://github.com/BarakaIan/cipher-app
 
-##
+## Licence
+MIT licence
+
+## created by Ian Baraka
